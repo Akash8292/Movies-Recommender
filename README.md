@@ -1,3 +1,5 @@
 # Movies-Recommender
 ## This web site is  basically a movie recommender system.
-## Tools to run
+## Tools required for runinig.
+*Spyder app
+*Pycharm
