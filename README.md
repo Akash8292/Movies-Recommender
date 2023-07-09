@@ -1,12 +1,12 @@
 # Movies-Recommender
-## This web site is  basically a movie recommender system.
+## This web Application is  basically a movie recommender system.That is totaly based on python.
 ## Technologies Used
 
 ### Coding:
 * Spyder
 
 ### Deploy
-*Pycharm
+* Pycharm
 
 
 ## How to Run the website
