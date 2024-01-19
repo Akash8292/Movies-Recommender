@@ -14,8 +14,10 @@
 
 ### Screenshots
 * Dropdown Menu
- <img src=""C:\Users\DELL\OneDrive\Desktop\2.jpg"" width="128"/>
+ ![2](https://github.com/Akash8292/Movies-Recommender/assets/97883391/18fec570-31a5-4e39-8e2f-c9cee6bf6c21)
+
 
 * Recommended Movies
-  <img src=""C:\Users\DELL\OneDrive\Desktop\1.jpg"" width="128"/>
+  ![1](https://github.com/Akash8292/Movies-Recommender/assets/97883391/bd2af5a3-2aec-49b5-a4ef-0016330c0e8d)
+
 
