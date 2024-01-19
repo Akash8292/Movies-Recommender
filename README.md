@@ -2,7 +2,7 @@
 ## Welcome to our Movie Recommendation System project! Leveraging advanced python, this system provides personalized movie recommendations tailored to individual user preferences. By analyzing user behavior, movie ratings, and genre preferences, our recommendation engine employs collaborative filtering and content-based filtering techniques to generate accurate and diverse movie suggestions. 
 ## Technologies Used
 ### Language:
-*Python
+* Python
 
 ### Coding & Deployment:
 * Spyder
