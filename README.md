@@ -14,7 +14,8 @@
 
 ### Screenshots
 * Dropdown Menu
- ![Screenshot](2.jpg)
+ <img src=""C:\Users\DELL\OneDrive\Desktop\2.jpg"" width="128"/>
 
 * Recommended Movies
- ![Screenshot](1.jpg)
+  <img src=""C:\Users\DELL\OneDrive\Desktop\1.jpg"" width="128"/>
+
