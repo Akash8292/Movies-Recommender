@@ -18,6 +18,8 @@
 
 
 * Recommended Movies
+
+  
   ![1](https://github.com/Akash8292/Movies-Recommender/assets/97883391/bd2af5a3-2aec-49b5-a4ef-0016330c0e8d)
 
 
